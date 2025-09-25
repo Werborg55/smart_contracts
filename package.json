@@ -8,10 +8,10 @@
   },
   "dependencies": {
     "bip39": "^2.5.0",
-    "ethereumjs-wallet": "^0.6.0",
+    "ethereumjs-wallet": "^1.0.2",
     "scrypt": "^6.0.3",
     "web3": "^1.0.0-beta.21",
-    "web3-provider-engine": "^16.0.8",
+    "web3-provider-engine": "^17.0.0",
     "zeppelin-solidity": "^1.5.0"
   },
   "devDependencies": {
